@@ -1,0 +1,8 @@
+An Nguyen
+Instructions on running solution to:
+    Tray.io Solutions Engineer Technical Test
+
+- tray.js file can be run directly in the terminal using 
+    > node tray.js
+
+- additional files include input.txt (this is a sample file)
