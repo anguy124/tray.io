@@ -75,14 +75,12 @@ for (var i = 0; i < cardinal.length; i++) {
 
 
 function isPatchOfDirt(arr1, arr2) {
-    var dirtCounter = 0;
     for (var i = arr1.length; i--;) {
         if (arr1[i] !== arr2[i]) {
             dirtCounter = 0;
             return false;
         }
     }
-    dirtCounter++;
     return true;
 }
 
